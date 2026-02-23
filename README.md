@@ -15,4 +15,13 @@ This project simulates a **7-day monitoring of third-party services** to track c
 - Provides an **interactive Plotly dashboard** to visualize trends
 
 ## Folder Structure
-
+tenchi_risk_project/
+│
+├── data/ # CSV files with third-party service info
+│ └── third_party_services.csv
+├── scripts/ # Python scripts
+│ ├── risk_assessment.py
+│ └── dashboard.py
+├── docs/ # Documentation and images
+│ └── dashboard.png
+└── results/ # Generated daily monitoring CSVs
