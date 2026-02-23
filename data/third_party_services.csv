@@ -1,0 +1,11 @@
+service_name,service_type,exposed_ports,ssl_expiry_days,known_vulnerabilities,security_headers
+AWS S3,IaaS,"22,80,443",120,3,5
+Google Workspace,SaaS,"443",200,1,5
+Salesforce,SaaS,"443",90,2,4
+Azure Blob Storage,IaaS,"22,443",60,5,3
+Slack,SaaS,"443",180,0,5
+Zoom,SaaS,"443",150,1,4
+GitHub,SaaS,"22,443",300,0,5
+MongoDB Atlas,PaaS,"27017,443",45,4,3
+Jira,SaaS,"443",100,2,4
+Okta,SaaS,"443",250,0,5
