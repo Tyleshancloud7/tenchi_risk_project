@@ -1,5 +1,5 @@
 # Tenchi Third-Party Risk Monitoring Project
-
+![Dashboard Preview](docs/dashboard.png)
 This project simulates a **7-day monitoring of third-party services** to track cyber risk scores. It is inspired by Tenchi's focus on **Third-Party Cyber Risk Management (TPCRM)**.
 
 ## Project Features
